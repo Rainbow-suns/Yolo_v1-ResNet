@@ -1,0 +1,47 @@
+Team
+Name	Organization
+Jianhua Han	Noah's Ark Lab
+Xiwen Liang	Sun Yat-Sen University
+Hang Xu	Noah's Ark Lab
+Kai Chen	Hong Kong University of Science and Technology
+Lanqing Hong	Noah's Ark Lab
+Chaoqiang Ye	Noah's Ark Lab
+Wei Zhang	Noah's Ark Lab
+Zhenguo Li	Noah's Ark Lab
+Xiaodan Liang	Sun Yat-Sen University
+Chunjing Xu	Noah's Ark Lab
+
+Terms of Use - Non-Commercial Use
+Description
+
+Huawei Technologies Co. Ltd (the ‘Organizers’ ,we", "us", and "our",) provides public access to and use of data that it collects and publishes. The data are organized in datasets (the “Datasets”) may be accessed at this website. Any individual or entity (hereinafter You” or “Your”) with access to the Datasets free of charge subject to the terms of this agreement (hereinafter “Dataset Terms”). By using or downloading the Datasets, you are agreeing to comply with the Dataset Terms and any licensing terms referenced below. Use of any data derived from the Datasets, which may appear in any format such as tables and charts, is also subject to these Dataset Terms.
+
+Licenses
+
+Unless specifically labeled otherwise, these Datasets are provided to You under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (“CC BY-NC-SA 4.0”), with the additional terms included herein. The CC BY-NC-SA 4.0 may be accessed at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode. When You download or use the Datasets from the Website or elsewhere, You are agreeing to comply with the terms of CC BY-NC-SA 4.0, and also agreeing to the Dataset Terms. Where these Dataset Terms conflict with the terms of CC BY-NC-SA 4.0, these Dataset Terms shall prevail. We reiterate once again that this dataset is used only for non-commercial purposes such as academic research, teaching, or scientific publications. We prohibits You from using the dataset or any derivative works for commercial purposes, such as selling data or using it for commercial gain.
+
+Sharing
+
+We prohibits You from distributing this dataset or modified versions. It is permissible to distribute derivative works in as far as they are abstract representations of this dataset (such as models trained on it or additional annotations that do not directly include any of our data).
+
+Trademark
+
+All logos and trademarks used on this website are the properties of us or other third parties as stated if applicable. No content provided on the website shall be deemed as granting approval or the right to use any trademark or logo aforesaid by implication, lack of objection, or other means without the prior written consent of us or any third party which may own the mark. No individual shall use the name, trademark, or logo of us by any means without the prior written consent of us.
+
+Privacy
+
+We will take reasonable care to remove or scrub personally identifiable information (PII) including, but not limited to, faces of people and license plates of vehicles. Furthermore, We prohibits You from using the Datasets in any manner to identify or invade the privacy of any person even when such use is otherwise legal. If You have any privacy concerns, including to remove your name or other PII from the Dataset, please contact us by sending an e-mail to xu.hang@huawei.com.
+
+Warranties
+
+THE DATASETS AND THE WEBSITE (INCLUDING, WITHOUT LIMITATION, ALL CONTENT AND MODIFICATIONS OF ORIGINAL DATASETS POSTED ON THE WEBSITE) ARE PROVIDED “AS IS” AND “AS AVAILABLE” AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. WITHOUT LIMITING THE FOREGOING, HUAWEI DOES NOT WARRANT THAT: (A) THE CONTENT OR MODIFICATIONS TO THE DATASET ARE TIMELY, ACCURATE, COMPLETE, RELIABLE OR CORRECT IN THEIR POSTED FORMS AT THE WEBSITE; (B) THE WEBSITE WILL BE SECURE; (C) THE WEBSITE WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (D) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (E) THE WEBSITE, CONTENT OR ANY MODIFICATIONS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (F) THE RESULTS OF USING THE WEBSITE WILL MEET YOUR REQUIREMENTS. YOUR USE OF THE WEBSITE, THE DATASETS, AND ANY CONTENT IS SOLELY AT YOUR OWN RISK.
+
+ANY ENTITY OR INDIVIDUAL WHO SUSPECTS THAT THE CONTENT ON THE WEBSITE (INCLUDING BUT NOT LIMITED TO THE DATASETS POSTED ON THE WEBSITE) INFRINGES UPON LEGAL RIGHTS OR INTERESTS SHALL NOTIFY OUR CONTACT xu.hang@huawei.com IN WRITTEN FORM AND PROVIDE THE IDENTITY, OWNERSHIP CERTIFICATION, ASSOCIATED LINK (URL), AND PROOF OF INFRINGEMENT. WE WILL REMOVE THE CONTENT RELATED TO THE ALLEGED INFRINGEMENT BY LAW UPON RECEIVING THE FOREGOING LEGAL DOCUMENTS.
+
+Limitation of liability
+
+IN NO EVENT SHALL HUAWEI AND ITS AFFILIATES, OR THEIR DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, OR SUPPLIERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL THEORY WITH RESPECT TO THE WEBSITE, THE DATASETS, OR ANY CONTENT OR USER SUBMISSIONS (I) FOR ANY DIRECT DAMAGES, OR (II) FOR ANY LOST PROFITS OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER.
+
+Applicable Law and Dispute Resolution
+
+Access and all related activities on or through the website shall be governed by, construed, and interpreted in accordance with the laws of the People's Republic of China. You agree that any dispute between the parties arising out of or in connection with this legal notice or your access and all related activities on or through this website shall be governed by a court with jurisdiction in Shenzhen, Guangdong Province of the People's Republic of China.
